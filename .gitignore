@@ -1,2 +1,3 @@
 .idea
-__pychache__
+out/
+__pycache__
